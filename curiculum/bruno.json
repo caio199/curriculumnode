@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "curiculum",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
